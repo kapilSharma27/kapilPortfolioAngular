@@ -1,0 +1,21 @@
+.skills-content .right .html::before {
+  width: 100%;
+}
+.skills-content .right .css::before {
+  width: 80%;
+}
+.skills-content .right .ng::before {
+  width: 90%;
+}
+.skills-content .right .opensource::before {
+  width: 75%;
+}
+.skills-content .right .cc::before {
+  width: 70%;
+}
+.skills-content .right .ne::before {
+  width: 50%;
+}
+.skills-content .right .sh::before {
+  width: 25%;
+}
